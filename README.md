@@ -1,13 +1,14 @@
 # sales-dashboard-report
-Interactive dashboard report for regional sales
+Quick two-hour interactive Power BI dashboard report for regional sales.
 
 ## Main page - Sales Overview
-![dashboard1](Regional Sales Dashboard-1.png)
+![](Regional%20Sales%20Dashboard-1.png)
 
 ## Second page - Regional Analysis
-![dashboard2](Regional Sales Dashboard-2.png)
-
-
-## PDF Report
-
-Report link [HERE](Regional Sales Dashboard.pdf)
+   ![](Regional%20Sales%20Dashboard-2.png)
+***
+## Report
+PDF link [HERE](Regional%20Sales%20Dashboard.pdf)
+***
+##  Source File
+PBIX link [HERE](Regional%20Sales%20Dashboard.pbix)
